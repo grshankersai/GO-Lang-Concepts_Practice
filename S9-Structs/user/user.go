@@ -14,7 +14,7 @@ type User struct{
 }
 
 type Admin struct{
-	 User
+	User
 	email string
 	password string
 }
